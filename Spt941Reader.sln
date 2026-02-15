@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spt941Reader", "Spt941Reader.csproj", "{7C49ADB5-C946-FDE5-A576-6D98AAAD77DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logika.Core", "..\Logika.Core\Logika.Core.csproj", "{2BE4AD38-27FD-4857-B2FD-E58511E1F518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C49ADB5-C946-FDE5-A576-6D98AAAD77DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C49ADB5-C946-FDE5-A576-6D98AAAD77DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C49ADB5-C946-FDE5-A576-6D98AAAD77DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C49ADB5-C946-FDE5-A576-6D98AAAD77DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE4AD38-27FD-4857-B2FD-E58511E1F518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE4AD38-27FD-4857-B2FD-E58511E1F518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE4AD38-27FD-4857-B2FD-E58511E1F518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE4AD38-27FD-4857-B2FD-E58511E1F518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8EE63D-6DD6-41CB-9BCB-1CBF41A774BC}
+	EndGlobalSection
+EndGlobal
